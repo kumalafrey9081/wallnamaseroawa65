@@ -1,0 +1,4 @@
+baseURL = "https://wallpapers-decorcaca.vercel.app"
+languageCode = "en-us"
+title = "Free Wallpaper Room Décor"
+theme = "hugo-theme-minos"
